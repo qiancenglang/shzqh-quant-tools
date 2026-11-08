@@ -1,4 +1,4 @@
-官网：https://shzqh.cn（数智量化）
+官网：https://shzqh.cn （数智量化）
 # shzqh-quant-tools
 Open source tools for futures data analysis and quantitative research.
 Write-Host "=== 数智shzqh.cn 自动化推广推送 ===" -ForegroundColor Cyan
