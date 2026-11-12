@@ -19,7 +19,8 @@
 
 ## 📸 系统截图
 
-> *(建议在这里上传 1-2 张你官网的高清截图)*
+> *<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/695b7876-6077-471e-af6f-aab99a4a2116" />
+)*
 
 ## 🔗 快速访问
 
